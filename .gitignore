@@ -1,0 +1,8 @@
+sb_char/*
+mapper_name/*
+__pycache__/*
+sb_color/*
+sb_misc/*
+*.jpg
+*.ttf
+*.png
